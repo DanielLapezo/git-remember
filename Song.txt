@@ -1,1 +1,2 @@
 roses are blue
+bushes are red
