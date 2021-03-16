@@ -1,2 +1,4 @@
 roses are blue
-bushes are red
+bushes are green
+
+this song is so beautiful
